@@ -58,6 +58,8 @@
 | [Потоки ввода-вывода](https://official.contest.yandex.ru/contest/85842/enter) | 21.11.25 – 28.11.25 |
 | [Связанный список](https://official.contest.yandex.ru/contest/86591/enter) | 5.12.25 – 12.12.25 |
 | [Стек, дек, очередь](contest.yandex.ru/contest/86969/enter) | 10.12.25 – 17.12.25 |
+| [контест 1](https://official.contest.yandex.ru/contest/91168/enter) | 07.03.26 |
+| [контест 2](https://official.contest.yandex.ru/contest/91108/enter) | 11.03.26 |
 
 ## Длинные контесты
 
